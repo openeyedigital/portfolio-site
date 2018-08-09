@@ -3,10 +3,12 @@ body {
     padding: 2%;
 }
 
-.navi {
+.topnav {
     display: flex;
     align-items: left;
 }
+
+.page-links {}
 
 .bio-h1 {
     background-color: #222222;
