@@ -1,7 +1,35 @@
-.table-1{
-
+body {
+    background-image: url("https://kadalngesot.files.wordpress.com/2011/05/universe-and-planets-digital-art-wallpaper-spring.jpg");
+    padding: 2%;
 }
 
-.nav{
-    
+.navi {
+    display: flex;
+    align-items: left;
+}
+
+.bio-h1 {
+    background-color: #222222;
+    color: #FFFFFF;
+    padding: 2%;
+    font-size: 20px;
+    text-align: left;
+    width: 10%;
+}
+
+.bio-photo {
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4%;
+    width: 80vw;
+}
+
+.bio-paragraph {
+    background-color: #222222;
+    color: #FFFFFF;
+    padding: 1%;
+    font-size: 16px;
+    text-align: center;
 }
