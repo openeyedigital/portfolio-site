@@ -1,31 +1,41 @@
 body {
     background-image: url("https://kadalngesot.files.wordpress.com/2011/05/universe-and-planets-digital-art-wallpaper-spring.jpg");
-    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 2%;
 }
 
-.navbar {
+.coming-soon {
     background-color: #222222;
-    height: 10vh;
-    width: 100vw;
-}
-
-.left-name {
-    font-size: 30px;
+    font-size: 5.5em;
     color: white;
-    height: 15vh;
-    width: 45vw;
+    height: 95vh;
+    width: 95vw;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
 }
 
-.right-links {
-    font-size: 20px;
-    height: 15vh;
-    width: 45vw;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+a:link {
+    text-decoration: none;
+    color: rgb(154, 46, 36)
 }
 
-/* ^^^^NAVIGATION BAR IS ABOVE^^^^ */
+a:visited {
+    text-decoration: none;
+    color: rgb(154, 46, 36)
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.bio-photos {
+    height: 40vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
