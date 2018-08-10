@@ -35,24 +35,3 @@ body {
 }
 
 /* ^^^^NAVIGATION BAR IS ABOVE^^^^ */
-
-#main {
-    padding-top: 10%;
-    margin: 2%;
-    background-color: #222222;
-}
-
-.bio-photos {
-    width: 90vw;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    margin: 20px;
-}
-
-.bio {
-    background-color: #222222;
-    color: #FFFFFF;
-    font-size: 16px;
-    text-align: center;
-}
