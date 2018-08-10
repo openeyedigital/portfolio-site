@@ -1,7 +1,7 @@
 /* ^^^^NAVIGATION BAR AND MAIN BODY^^^^ */
 
 .navbar {
-    background-color: #222222;
+    background-color: rgb(22, 23, 32);
     height: 10vh;
     width: 100%;
     display: flex;
@@ -47,27 +47,31 @@ a:hover {
 
 body {
     background-image: url("https://kadalngesot.files.wordpress.com/2011/05/universe-and-planets-digital-art-wallpaper-spring.jpg");
-    display: flex;
-    justify-content: space-around;
-    align-content: center;
     margin: 0px;
-}
-
-.bio-photos {
-    width: 90vw;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px;
+}
+
+.bio-photos {
+    margin-top: 5%;
+    width: 83vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width: .25%;
+    border-color: rgb(154, 46, 36);
+    border-style: solid
 }
 
 .bio {
-    background-color: #222222;
+    background-color: rgb(22, 23, 32);
     color: rgb(154, 46, 36);
+    margin-top: 2.5%;
     font-size: 16px;
     text-align: center;
     height: 25vh;
-    width: 90vw;
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
