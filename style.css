@@ -45,7 +45,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: .25%;
+    margin-bottom: 2.5%;
 }
 
 .photos {
@@ -55,7 +55,6 @@
 .bio {
     background-color: rgb(22, 23, 32);
     color: rgb(154, 46, 36);
-    margin-top: .15%;
     font-size: 1em;
     text-align: center;
     width: 100%;
@@ -72,7 +71,7 @@ footer {
     background-color: rgb(22, 23, 32);
     color: rgb(154, 46, 36);
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-content: center;
 }
 
@@ -107,7 +106,7 @@ a:hover {
 /* ^^^^BODY^^^^ */
 
 body {
-    background-image: url("https://kadalngesot.files.wordpress.com/2011/05/universe-and-planets-digital-art-wallpaper-spring.jpg");
+    background-image: url("https://cdn.wallpapersafari.com/5/72/AqDJN4.jpg");
     margin-bottom: 0px;
     display: flex;
     justify-content: center;
@@ -115,14 +114,14 @@ body {
 }
 
 .connect {
-    background-color: rgb(154, 46, 36);
+    background-color: rgb(22, 23, 32);
     display: flex;
     justify-content: center;
     align-content: center;
     font-size: 24px;
-    color: rgb(22, 23, 32);
+    color: rgb(154, 46, 36);
     font-weight: bold;
-    
+    margin-top: 2.5%;
 }
 
 .photos {
@@ -137,7 +136,7 @@ body {
     width: 90vw;
 }
 
-p{
+p {
     width: 90vw;
     height: 90%;
     display: flex;
@@ -145,5 +144,4 @@ p{
     align-items: center;
     margin-right: 4%;
     margin-left: 4%;
-
 }

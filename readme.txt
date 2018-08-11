@@ -26,6 +26,8 @@ https://imgur.com/a/irAP0bK
 
 Website Screenshots:
 https://imgur.com/a/SEE9W6N
+https://imgur.com/a/dsbhsu
+
 
 ERROR with DEPLOYMENT / SURGE INSTALL:
 https://imgur.com/a/ATM99wb
