@@ -13,9 +13,13 @@ How To Understand and Interact With This Site (P1 NOTES):
     03. Bookings.html (A contact form is hosted here)
 
 
+
 Site Objective: 
     01. Post music project ("Nacci") content onto a website in a tasteful and artsy way. 
     02. Create a visually pleasing atmosphere 
     03. Finish V1.0 and turn in as "Project: Portfolio Site (P1)" 
     04. Create new read me with progressive "2.0 Nacci" site
+
+
+THINGS I WOULD HAVE LIKED TO CHANGE: 
 
