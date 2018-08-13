@@ -1,9 +1,10 @@
-Nacci Website Application
-V1.0
+Nacci Website Application (V1.0)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
-                    NACCI 
+                    NACCI
 ++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 How To Understand and Interact With This Site (P1 NOTES):
     01. Home.html (Will become the static "Coming Soon" page on the domain, the navigation bar has been intentionally limited to "Bookings" link)
     02. Bio.html (Acting as the 'home page' for the P1 project)
